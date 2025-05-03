@@ -1,4 +1,4 @@
-Reif Birzin, Olivia McCarthy, Zelig Riyanto
+Reif Birzin, Olivia McCarty, Zelig Riyanto
 # Graph Matching Project Submission
 
 Below are the results from running three graph matching algorithms on various datasets, followed by descriptions of each algorithm and a strategy for selecting the appropriate method on new graphs.
